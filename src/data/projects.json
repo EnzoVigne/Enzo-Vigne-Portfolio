@@ -7,14 +7,20 @@
   },
   {
     "title": "Hopefield",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"]
+    "imageSrc": "projects/hopefield.png",
+    "description": "Projet réalisé au cours du premier semestre du BUT2. Il consiste en la réalisation d'un site web de vente aux enchères fictive sur la thématiques des fossiles.",
+    "skills": ["PHP", "Html", "CSS"]
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"]
+    "title": "Stage Laser Game Entreprise",
+    "imageSrc": "projects/LGE.png",
+    "description": "Implémentation de statistiques sur une ou plusieurs parties de laser tags d'un ensemble de joueurs.",
+    "skills": ["UML", "SQL", "C#"]
+  },
+  {
+    "title": "Stage Laboratoire d'Informatique de Grenoble",
+    "imageSrc": "projects/LIG.png",
+    "description": "Implémentation de fonctionnalités de Reconnaissance Automatique de la Parole (RAP) sur une plateforme existante.",
+    "skills": ["Angular", "TypeScript", "HTML", "CSS"]
   }
 ]
