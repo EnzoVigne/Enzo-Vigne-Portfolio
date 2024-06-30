@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Étudiant",
+    "organisation": "UGA",
+    "startDate": "Septembre, 2021",
+    "endDate": "Juillet, 2024",
+    "experiences": ["Parcours : réalisation d'applications (conception, développement, validation)", "Développement Web", "Développement Logiciel", "Gestion de Projet"],
+    "imageSrc": "history/UGA.png",
+    "desc": ""
+  },
+  {
+    "role": "Stage",
+    "organisation": "Laser Game Enterprise",
+    "startDate": "17 avril, 2023",
+    "endDate": "23 juin, 2023",
+    "experiences": ["Développement logiciel", "SQL, C#, UML"],
+    "imageSrc": "history/LGE.png",
+    "desc": "La mission consiste à mettre en place des statistiques sur les joueurs en fin de parties"
+  },
+  {
+    "role": "Stage",
+    "organisation": "Laboratoire d'Informatique de Grenoble",
+    "startDate": "25 mars, 2023",
+    "endDate": "28 juin, 2023",
+    "experiences": ["Développement web","Angular, Html, CSS"],
+    "imageSrc": "history/LIG.png",
+    "desc": "La mission consiste à implémenter des fonctionnalités de Reconnaissance Automatique de la Parole (RAP) dans un outil existant"
+  }
+]

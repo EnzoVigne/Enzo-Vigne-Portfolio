@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Ky0ju's Reminescence",
+    "imageSrc": "projects/kyoju_smile.png",
+    "description": "Projet réalisé dans le cadre de la GameJam organisée par l'IUT2 de Grenoble pour les BUT3. Il consiste à réaliser un jeu vidéo en 2D sur la thématique des robots et de la gravité.",
+    "skills": ["Python", "Pygame"]
+  },
+  {
+    "title": "Hopefield",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"]
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"]
+  }
+]

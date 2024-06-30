@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "Sympfony",
+    "imageSrc": "skills/symfony.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c-plus-plus.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/c-sharp.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresSQL.png"
+  },
+  {
+    "title": "UML",
+    "imageSrc": "skills/UML.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
